@@ -33,7 +33,7 @@ Jalankan perintah berikut satu per satu di terminal Anda untuk menginstal dan me
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/kyugito666/fogo-valiant-bot.git](https://github.com/kyugito666/fogo-valiant-bot.git)
+    git clone https://github.com/kyugito666/fogo-valiant-bot.git
     ```
 
 2.  **Masuk ke Direktori Proyek**
